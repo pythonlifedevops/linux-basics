@@ -1,0 +1,46 @@
+{
+  "title": "Linux Administration",
+  "description": "Linux Administration Topics",
+  "difficulty": "Beginner",
+  "time": "3 hours",
+  "details": {
+    "steps": [
+      {
+        "title": "Process Management",
+        "text": "step1.md"
+      },
+      {
+        "title": "User Management",
+        "text": "step2.md"
+      },
+      {
+        "title": "SUDOERS",
+        "text": "step3.md"
+      },
+      {
+        "title": "Package Management",
+        "text": "step4.md"
+      },
+      {
+        "title": "Service Management",
+        "text": "step5.md"
+      },
+      {
+        "title": "Permissions Management",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "courseData": "background.sh",
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    
+    "imageid": "ubuntu"
+
+  }
+}
