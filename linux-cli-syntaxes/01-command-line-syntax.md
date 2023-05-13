@@ -3,7 +3,7 @@
 
 You can see in the picture like how commands would be in Linux.
 
-![Prompt Example](https://github.com/devopstrainings/linux-basics-katakoda/raw/master/linux-cli-syntaxes/images/02-prompt.png)
+![Prompt Example](https://github.com/pythonlifedevops/linux-basics/raw/master/linux-cli-syntaxes/images/02-prompt.png)
 
 
 In the above diagram-1 we are executing the commands on shell. Shell is a place where users will execute the command on server.
